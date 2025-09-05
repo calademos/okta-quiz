@@ -1,0 +1,15 @@
+body {
+    font-family: 'Inter', sans-serif;
+    transition: all 0.3s ease-in-out;
+}
+button {
+    cursor: pointer;
+}
+button.correct {
+    background-color: #16a34a !important;
+    color: white;
+}
+button.incorrect {
+    background-color: #dc2626 !important;
+    color: white;
+}
